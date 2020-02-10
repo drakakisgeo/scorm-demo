@@ -1,6 +1,6 @@
 # Scorm example
 
-This repo exists because I wanted to have a working example following the blog http://www.vsscorm.net that has a great guide/tutorial regarding scorm.
+This repo exists because I wanted to have a working example (version 1.2) following the blog http://www.vsscorm.net that has a great guide/tutorial regarding scorm.
 
 
 ## Instructions
